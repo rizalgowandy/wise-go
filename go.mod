@@ -10,6 +10,5 @@ require (
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/mattn/go-isatty v0.0.13 // indirect
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
-	golang.org/x/net v0.0.0-20210428140749-89ef3d95e781 // indirect
 	golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf // indirect
 )

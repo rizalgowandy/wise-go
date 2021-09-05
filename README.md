@@ -4,7 +4,7 @@
 [![Build Status](https://github.com/rizalgowandy/library-template-go/workflows/Go/badge.svg?branch=main)](https://github.com/rizalgowandy/library-template-go/actions?query=branch%3Amain)
 [![Sourcegraph](https://sourcegraph.com/github.com/rizalgowandy/library-template-go/-/badge.svg)](https://sourcegraph.com/github.com/rizalgowandy/library-template-go?badge)
 
-![gdk](https://socialify.git.ci/rizalgowandy/library-template-go/image?description=1&language=1&pattern=Floating%20Cogs&theme=Light)
+![logo](https://socialify.git.ci/rizalgowandy/wise-go/image?description=1&descriptionEditable=Transfer%20money%20abroad%20using%20Wise%20Platform%20API.&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F50%2FTransferWise_logo.svg%2F1280px-TransferWise_logo.svg.png&pattern=Floating%20Cogs&theme=Light)
 
 ## Getting Started
 
