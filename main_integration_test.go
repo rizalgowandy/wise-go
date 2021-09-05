@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/kokizzu/gotro/L"
-	"github.com/rizalgowandy/library-template-go/pkg/api"
+	"github.com/rizalgowandy/wise-go/pkg/api"
 )
 
 // How to run all integration test:
