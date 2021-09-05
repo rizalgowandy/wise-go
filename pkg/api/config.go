@@ -54,7 +54,7 @@ func (c *Config) Validate() error {
 		c.RetryMaxWaitTime = 2 * time.Second
 	}
 	if c.HostURL == "" {
-		c.HostURL = "" // TODO: replace
+		c.HostURL = "https://api.transferwise.com"
 	}
 	return nil
 }
