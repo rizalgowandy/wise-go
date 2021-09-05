@@ -1,8 +1,8 @@
-[![Go Doc](https://pkg.go.dev/badge/github.com/rizalgowandy/library-template-go?status.svg)](https://pkg.go.dev/github.com/rizalgowandy/library-template-go?tab=doc)
-[![Release](https://img.shields.io/github/release/rizalgowandy/library-template-go.svg?style=flat-square)](https://github.com/rizalgowandy/library-template-go/releases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/rizalgowandy/library-template-go)](https://goreportcard.com/report/github.com/rizalgowandy/library-template-go)
-[![Build Status](https://github.com/rizalgowandy/library-template-go/workflows/Go/badge.svg?branch=main)](https://github.com/rizalgowandy/library-template-go/actions?query=branch%3Amain)
-[![Sourcegraph](https://sourcegraph.com/github.com/rizalgowandy/library-template-go/-/badge.svg)](https://sourcegraph.com/github.com/rizalgowandy/library-template-go?badge)
+[![Go Doc](https://pkg.go.dev/badge/github.com/rizalgowandy/wise-go?status.svg)](https://pkg.go.dev/github.com/rizalgowandy/wise-go?tab=doc)
+[![Release](https://img.shields.io/github/release/rizalgowandy/wise-go.svg?style=flat-square)](https://github.com/rizalgowandy/wise-go/releases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/rizalgowandy/wise-go)](https://goreportcard.com/report/github.com/rizalgowandy/wise-go)
+[![Build Status](https://github.com/rizalgowandy/wise-go/workflows/Go/badge.svg?branch=main)](https://github.com/rizalgowandy/wise-go/actions?query=branch%3Amain)
+[![Sourcegraph](https://sourcegraph.com/github.com/rizalgowandy/wise-go/-/badge.svg)](https://sourcegraph.com/github.com/rizalgowandy/wise-go?badge)
 
 ![logo](https://socialify.git.ci/rizalgowandy/wise-go/image?description=1&descriptionEditable=Transfer%20money%20abroad%20using%20Wise%20Platform%20API.&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F50%2FTransferWise_logo.svg%2F1280px-TransferWise_logo.svg.png&pattern=Floating%20Cogs&theme=Light)
 
@@ -13,8 +13,7 @@
 ## Installation
 
 ```shell
-# TODO: replace me
-go get -v github.com/rizalgowandy/library-template-go
+go get -v github.com/rizalgowandy/wise-go
 ```
 
 ## Quick Start
